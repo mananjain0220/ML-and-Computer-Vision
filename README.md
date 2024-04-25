@@ -1,4 +1,3 @@
-# Package Damage Detection using Supervised ML and Classification of Damaged Shipments
 # Assessing the Feasibility of Damage Prediction and Detection through Multi-Modal Machine Learning in Digital Freight Forwarding Operations
 
 1. **Project Background**: Master's thesis project for Cargoboard GmbH, in collaboration with Fraunhofer IEM.
